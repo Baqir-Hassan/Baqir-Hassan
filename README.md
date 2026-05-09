@@ -68,8 +68,7 @@ I design for **failure by default** — async pipelines, graceful error handling
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baqir-Hassan&layout=compact&theme=radical)](https://github.com/Baqir-Hassan)
----
+![Baqir's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Baqir-Hassan&layout=compact&theme=radical)---
 
 ## 📫 Get in Touch
 
