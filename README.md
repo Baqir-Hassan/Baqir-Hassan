@@ -1,5 +1,6 @@
 # Hi, I'm Baqir 👋
-I'm a Computer Science graduate (July 2026) from Pakistan, building production-grade systems and targeting **SRE / DevOps roles in Japan**.
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=700&lines=AWS+DevOps+%26+SRE+Engineer;Building+Production-Grade+Cloud+Infrastructure;Two+Live+SaaS+Products+on+AWS;Targeting+SRE+%2F+DevOps+Roles+in+Japan+🇯🇵)](https://git.io/typing-svg)
 
 I don't just build prototypes — I ship things that stay up. My focus is on reliability, async architecture, and cost-conscious infrastructure design.
 
@@ -7,40 +8,24 @@ I don't just build prototypes — I ship things that stay up. My focus is on rel
 
 ## 🚀 What I'm Working On
 
-- **[Sage Studio](https://studio.sageai.live)** — A live SaaS that automatically generates TikTok-style videos from Reddit stories using AI. End-to-end pipeline: Reddit scraping → AI scriptwriting (Groq) → voiceover (Whisper + Edge TTS) → subtitle rendering (FFmpeg) → cloud delivery. Deployed on AWS with a decoupled SQS worker architecture and GPU processing on Modal.com.
+- **[Sage Studio](https://studio.sageai.live)** — Live SaaS that auto-generates TikTok-style videos from Reddit stories. End-to-end pipeline: Reddit scraping → AI scriptwriting (Groq) → voiceover (Whisper + Edge TTS) → subtitle rendering (FFmpeg on Modal GPU) → cloud delivery via AWS.
 
-- **[Sage](https://sageai.live)** — A live production SaaS that converts PDF/PPTX notes into AI-generated audio lectures. Free for students (5 lectures/day). Running under $1/day through deliberate architectural tradeoffs.
+- **[Sage](https://sageai.live)** — Live SaaS that converts PDF/PPTX notes into AI-generated audio lectures. Free for students (5 lectures/day). Running under $1/day through deliberate architectural tradeoffs.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-**Backend & APIs**
+[![](https://skillicons.dev/icons?i=aws,docker,linux,nginx,python,fastapi,redis,postgres,github,git,react,ts,flutter,bash)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-
-**Cloud & Infrastructure**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Modal](https://img.shields.io/badge/Modal-000000?style=flat&logo=modal&logoColor=white)
-
-**Frontend & Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-**Databases & Queues**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=flat&logo=amazon-sqs&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+| Category | Tools |
+|----------|-------|
+| ☁️ Cloud & Infra | AWS (EC2, S3, RDS, SQS, CloudWatch), Modal.com |
+| 🐳 DevOps | Docker, Nginx, systemd, GitHub Actions, CI/CD |
+| 🐍 Backend | Python, FastAPI, Celery, SQLAlchemy, Alembic |
+| 🗄️ Databases & Queues | PostgreSQL, SQLite, Redis, Amazon SQS |
+| 📱 Frontend & Mobile | React, TypeScript, Flutter |
+| 📜 Scripting | Bash, Python automation |
 
 ---
 
@@ -55,8 +40,8 @@ PRAW     Groq        Whisper      FFmpeg       Modal GPU       CloudFront
 
 **Sage — Audio Pipeline:**
 ```
-Upload → Queue → Worker → AI Processing → Storage → Playback
-         SQS      Celery    Groq + TTS       S3       Flutter
+Upload → Queue  → Worker → AI Processing → Storage → Playback
+         SQS      Celery    Groq + TTS       S3        Flutter
 ```
 
 I design for **failure by default** — async pipelines, graceful error handling, and cost optimization baked in from the start, not bolted on later.
@@ -81,12 +66,18 @@ I design for **failure by default** — async pipelines, graceful error handling
 
 ---
 
+## 📊 GitHub Stats
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
 ## 📫 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/baqir-hassan-smbhn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:baqirhassan007@gmail.com)
-[![Sage Studio](https://img.shields.io/badge/Sage_Studio-Live-brightgreen?style=flat)](https://studio.sageai.live)
-[![Sage](https://img.shields.io/badge/Sage-Live-brightgreen?style=flat)](https://sageai.live)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/baqir-hassan-smbhn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baqirhassan007@gmail.com)
+[![Sage Studio](https://img.shields.io/badge/Sage_Studio-Live-brightgreen?style=for-the-badge)](https://studio.sageai.live)
+[![Sage](https://img.shields.io/badge/Sage-Live-brightgreen?style=for-the-badge)](https://sageai.live)
 
 ---
 
