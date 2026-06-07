@@ -71,4 +71,4 @@ I design for **failure by default** — async pipelines, graceful error handling
 
 ---
 
-*Currently open to SRE, DevOps, and backend engineering opportunities — based in Pakistan, targeting Japan (visa sponsorship required).*
+*Currently open to SRE, DevOps, and backend engineering opportunities — based in Pakistan*
