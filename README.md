@@ -58,14 +58,6 @@ I design for **failure by default** — async pipelines, graceful error handling
 
 ---
 
-## 🌏 Goals
-
-- 🇯🇵 Relocating to Japan — JLPT N3 (July 2026) → N2 (December 2026)
-- 🏆 1st Place — Innovista Agentic AI Hackathon 2025
-- 📚 CS Graduate — Bahauddin Zakariya University, July 2026
-
----
-
 ## 📊 GitHub Stats
 
 ![Baqir's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Baqir-Hassan&layout=compact&theme=radical)---
