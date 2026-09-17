@@ -8,11 +8,11 @@ I don't just build prototypes — I ship things that stay up. My focus is on rel
 
 ## 🚀 What I'm Working On
 
+- **Wholesale Inventory & Dispatch Platform** — Designed, built, and currently operate a production platform used daily by 18 staff/admin users across two businesses, tracking hundreds of SKUs across 3 warehouses. Replaced phone-coordinated, paper-based dispatch logging with a digital dashboard, cutting an estimated ~30 minutes of coordination per dispatch.
+
 - **[Sage Studio](https://studio.sageai.live)** — Live SaaS that auto-generates TikTok-style videos from Reddit stories. End-to-end pipeline: Reddit scraping → AI scriptwriting (Gemini) → voiceover & subtitle sync (faster-whisper + FFmpeg on Modal GPU) → cloud delivery via AWS.
 
 - **[Sage](https://sageai.live)** — Live SaaS that converts PDF/PPTX notes into AI-generated audio lectures. Free for students (5 lectures/day). Running under $1/day through deliberate architectural tradeoffs.
-
-- **Wholesale Inventory & Dispatch Platform** — Designed, built, and currently operate a production platform used daily by 18 staff/admin users across two businesses, tracking hundreds of SKUs across 3 warehouses. Replaced phone-coordinated, paper-based dispatch logging with a digital dashboard, cutting an estimated ~30 minutes of coordination per dispatch.
 
 ---
 
