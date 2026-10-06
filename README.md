@@ -83,7 +83,7 @@ Built and deployed a billing management system for a golf and country club clien
 
 ## 📊 GitHub Stats
 
-![Baqir's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Baqir-Hassan&layout=compact&theme=radical)
+![Baqir's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Baqir-Hassan&layout=compact&theme=radical)
 
 ---
 
