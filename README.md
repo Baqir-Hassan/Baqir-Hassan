@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C4FF&width=800&lines=Backend+Engineer+%7C+SRE+%26+DevOps;Co-Founder+at+Rykards;Building+and+Operating+Production+Systems)](https://git.io/typing-svg)
 
-I'm a **backend engineer, SRE & DevOps practitioner, and co-founder of [Rykards (PVT) LTD](https://www.rykards.com)**, based in Pakistan.
+I'm a **backend engineer, SRE & DevOps practitioner, and co-founder of [Rykards (PRIVATE) LIMITED](https://www.rykards.com)**, based in Pakistan.
 
 My work focuses on backend services, asynchronous processing, reliable deployments, and cost-conscious infrastructure. At Rykards, I handle **backend engineering, infrastructure, and deployments** across our products, working with the team to deliver complete business platforms. I also build and operate my own SaaS projects: **Sage** and **Sage Studio**.
 
